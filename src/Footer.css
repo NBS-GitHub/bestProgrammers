@@ -1,0 +1,14 @@
+.app__footer{
+    padding: 2vw;
+    margin-top: 2vw;
+    background-color: #ddd;
+    border-bottom-left-radius: 2vw;
+    border-bottom-right-radius: 2vw;
+    background-image: linear-gradient(transparent 0%, transparent 80%, gray 100%);
+}
+
+.app__footer-text {
+    letter-spacing: 2px;
+    text-align: center;
+    font-size: 4vw;
+}

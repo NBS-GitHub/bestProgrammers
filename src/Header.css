@@ -1,0 +1,14 @@
+.app__header {
+    padding: 2vw;
+    background-color: #ddd;
+    border-top-left-radius: 2vw;
+    border-top-right-radius: 2vw;
+    background-image: linear-gradient(transparent 0%, transparent 80%, gray 100%);
+}
+
+.app__title {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 6vw;
+}
